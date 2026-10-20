@@ -1,0 +1,167 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:4755f7cb-6153-40ce-85e5-8c144c0e4f90:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "An Nguyen",
+  "playerId": "4755f7cb-6153-40ce-85e5-8c144c0e4f90",
+  "team": "DUFF",
+  "participation": "team",
+  "teamCrest": 2,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 1,
+      "prizeEligible": true
+    }
+  ],
+  "points": 26,
+  "dailyTarget": 10,
+  "additionalPoints": 16,
+  "awardIds": [
+    "a0e5d4d0-2e5c-431f-9a8d-7981cda424a5",
+    "3c1f4173-ccfb-4bc4-88b4-6238efc7c41d",
+    "f4f43154-81a7-4d2a-baca-632bab761819",
+    "ea5b3f75-33cb-478e-a6d9-03d7a80928f1",
+    "bd862b82-7b27-4e6e-ab9c-5b9c279995ea",
+    "d7ffb25d-6bc5-43d4-80f7-6b9c18019c8e",
+    "61d3621c-59ca-4e19-af73-edee92087fab",
+    "024689ec-e03c-4dd5-bb8e-1d52a81899c3",
+    "4d61547f-d2c8-4ab6-b3d1-951fd5c606d7",
+    "c7e83126-8128-452f-9a85-fb71ac47972e",
+    "a0a0ae71-c047-48ab-b484-f1c87541f72d",
+    "e848c6b9-ac97-4ddd-9d8d-e3e1fa7718ae",
+    "76c5f193-32fe-4aa0-8444-a9d711dca351",
+    "de29518b-42de-447e-a695-0eb16f3a814c",
+    "036840fa-d9af-4627-beef-681a6aec9c83",
+    "58747e88-cca5-4f21-889d-11a529cc4bc7"
+  ],
+  "encounters": [
+    {
+      "title": "The Lost Notice",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:50:29.690Z"
+    },
+    {
+      "title": "The Broken Signpost",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:51:24.570Z"
+    },
+    {
+      "title": "The Open Gate",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:52:18.324Z"
+    },
+    {
+      "title": "The Supply Slots",
+      "subject": "css",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:54:19.805Z"
+    },
+    {
+      "title": "The Spark Engine",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:55:10.954Z"
+    },
+    {
+      "title": "The Missing Portrait",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:56:29.018Z"
+    },
+    {
+      "title": "The Beacon Switch",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:57:01.969Z"
+    },
+    {
+      "title": "The Two States",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:58:02.003Z"
+    },
+    {
+      "title": "The Supply Function",
+      "subject": "javascript",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T20:58:38.141Z"
+    },
+    {
+      "title": "The Connected Controls",
+      "subject": "wpf",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:01:44.517Z"
+    },
+    {
+      "title": "The Supply Cache",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:03:07.192Z"
+    },
+    {
+      "title": "The Unnamed Traveler",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:05:24.148Z"
+    },
+    {
+      "title": "The Ruined Archive",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:06:41.001Z"
+    },
+    {
+      "title": "The Energy Conduit",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:07:29.435Z"
+    },
+    {
+      "title": "The Guard's Rule",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:08:57.434Z"
+    },
+    {
+      "title": "The Trader's Ledger",
+      "subject": "csharp",
+      "points": 2,
+      "round": 2,
+      "at": "2026-10-20T21:09:16.306Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:12:33.239Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "20c6a3f783959176453f126505da60f948038483f95e759d8c61024833baa4f9"
+}
