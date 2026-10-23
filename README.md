@@ -14,9 +14,9 @@ Team: Duff
 - [PDF declaration](sanctuary-run/2026-10-22/CS110-2026-10-22-declaration.pdf)
 - [Signed JSON receipt](sanctuary-run/2026-10-22/CS110-2026-10-22-receipt.json)
 
-## Grading Guide — Part 2
+## Grading Guide 
 
-- R1: October 22 PDF and signed JSON are linked above.
+- R1: October 20 and 22 PDF and signed JSON are linked above.
 - R2: Both dates' evidence is preserved in this repository.
 - R3: Repository URL for Canvas:
   https://github.com/anguyen0344/CS110
