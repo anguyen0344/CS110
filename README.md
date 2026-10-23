@@ -1,15 +1,24 @@
 
 # CS110 — An Nguyen - Sanctuary Run
 
-Student: An Nguyen  
-Team: Duff  
-Date: October 20, 2026  
-Session: Through Round 2. Rounds 3–4 continue later.
+Student: An Nguyen
+Team: Duff
 
-## Grading Guide
+## October 20, 2026 
 
-- **R1 — Activity PDF:** [Expedition declaration](sanctuary-run/2026-10-20/CS110-2026-10-20-declaration.pdf)
-- **R2 — Signed JSON:** [Activity receipt](sanctuary-run/2026-10-20/CS110-2026-10-20-receipt.json)
-- **R3 — GitHub evidence:** Both files are available in this repository. Canvas submission is recorded separately.
+- [PDF declaration](sanctuary-run/2026-10-20/CS110-2026-10-20-declaration.pdf)
+- [Signed JSON receipt](sanctuary-run/2026-10-20/CS110-2026-10-20-receipt.json)
 
-The downloaded records show my individual activity and points.
+## October 22, 2026 
+
+- [PDF declaration](sanctuary-run/2026-10-22/CS110-2026-10-22-declaration.pdf)
+- [Signed JSON receipt](sanctuary-run/2026-10-22/CS110-2026-10-22-receipt.json)
+
+## Grading Guide — Part 2
+
+- R1: October 22 PDF and signed JSON are linked above.
+- R2: Both dates' evidence is preserved in this repository.
+- R3: Repository URL for Canvas:
+  https://github.com/anguyen0344/CS110
+
+The JSON receipts are unchanged. The downloaded records show my individual activity and recorded team progress. Canvas submissions are recorded separately.
